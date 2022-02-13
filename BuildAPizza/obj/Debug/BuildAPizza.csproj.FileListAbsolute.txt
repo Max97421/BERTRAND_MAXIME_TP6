@@ -1,0 +1,6 @@
+C:\Users\Maxou\Desktop\tp6\BuildAPizza\bin\Debug\BuildAPizza.exe
+C:\Users\Maxou\Desktop\tp6\BuildAPizza\bin\Debug\BuildAPizza.pdb
+C:\Users\Maxou\Desktop\tp6\BuildAPizza\obj\Debug\BuildAPizza.csprojAssemblyReference.cache
+C:\Users\Maxou\Desktop\tp6\BuildAPizza\obj\Debug\BuildAPizza.csproj.CoreCompileInputs.cache
+C:\Users\Maxou\Desktop\tp6\BuildAPizza\obj\Debug\BuildAPizza.exe
+C:\Users\Maxou\Desktop\tp6\BuildAPizza\obj\Debug\BuildAPizza.pdb
